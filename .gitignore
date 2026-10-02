@@ -1,0 +1,8 @@
+# arquivos de trabalho locais, fora do deploy
+*.docx
+*.jpeg
+*.jpg
+.thumbnail
+uploads/
+.vercel/
+node_modules/
